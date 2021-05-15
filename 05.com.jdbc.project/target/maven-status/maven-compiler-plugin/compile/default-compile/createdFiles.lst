@@ -1,0 +1,10 @@
+com\project\model\queries\BrandQueries.class
+com\project\model\queries\UserQueries.class
+com\project\model\queries\CategoryQueries.class
+com\project\model\Product.class
+com\project\model\User.class
+com\project\Main.class
+com\project\model\queries\ProductQueries.class
+com\project\DBConnection\DbConnection.class
+com\project\model\Category.class
+com\project\model\Brand.class
